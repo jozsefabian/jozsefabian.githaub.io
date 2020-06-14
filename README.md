@@ -1,2 +1,2 @@
-# jozsefabian.githaub.io
+# jozsefabian.github.io
 Demo page.
